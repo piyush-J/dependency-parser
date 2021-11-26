@@ -2,6 +2,4 @@
 
 Initial implementation of Sanskrit to Hindi Translation using Zero-shot learning and dependency parser. 
 
-Authors:
-Rashi Kumar
-Piyush Jha
+Authors: Rashi Kumar and Piyush Jha
